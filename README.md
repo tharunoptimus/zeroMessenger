@@ -8,7 +8,6 @@ Set the Email/Password as Sign In and authentication method in firebase.<br>
 Start the project with expo <br>
 `expo init zero-messenger` <br>
 <br>
-<br>
 Install the required packages in your React Native project<br>
 `npm install @react-navigation/native`<br><br><br>
 Installing dependencies into an Expo managed project<br>
@@ -27,9 +26,8 @@ Install React Native Elements<br>
 Install Firebase CLI <br>
 `npm install -g firebase-tools`
 <br>
-<br>
 
-<br><br>
+<br>
 Download the master zip file.
 <br>
 Extract and Copy the files in the repository.
