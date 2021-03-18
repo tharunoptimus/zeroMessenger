@@ -1,5 +1,7 @@
 # Zero Messenger
 A Privacy Respecting Group Messenger<br>
+Visit the web app at <a href="https://expo.io/@tharunoptimus/projects/zero"> Expo </a><br><br>
+<br><h3>Deploy Yours now!!</h3><br>
 Create a new project at firebase.<br>
 Copy and paste your Firebase SDK Config Snippet into the firebase.js file<br>
 Set the Email/Password as Sign In and authentication method in firebase.<br>
@@ -36,4 +38,4 @@ Copy and paste your Firebase SDK Config Snippet into the firebase.js file<br>
 Create a Database in Google Firebase and initiate it as test server.<br>
 <br>
 Compile and deploy.<br>
-Visit the web app at <a href="https://expo.io/@tharunoptimus/projects/zero-messenger"> Expo </a>
+
