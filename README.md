@@ -5,7 +5,6 @@ Visit the web app at <a href="https://expo.io/@tharunoptimus/projects/zero"> Exp
 Create a new project at firebase.<br>
 Copy and paste your Firebase SDK Config Snippet into the firebase.js file<br>
 Set the Email/Password as Sign In and authentication method in firebase.<br>
-<br>
 ## Install
 `npm install` to install the app to your directory
 
